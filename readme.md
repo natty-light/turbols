@@ -1,0 +1,1 @@
+This is the same project as my `crawlfs` written in Rust. I wanted to duplicate it in Go for the purposes of comparison.
